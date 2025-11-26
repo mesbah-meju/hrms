@@ -1,0 +1,1 @@
+D:\XAMPP8.2\php\php.exe D:\XAMPP8.2\htdocs\hrms\public\artisan schedule:run
